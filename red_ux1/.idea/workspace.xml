@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61f460a8-0541-48fe-97b1-2e2d6d097f74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/red_ux.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux/src/components/redux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux/src/components/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/red_ux1/src/components/redux/redusers/users-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux2/.idea/red_ux2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux2/red_ux2/src/components/redux/action_creators/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux2/red_ux2/src/components/redux/action_types/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux2/red_ux2/src/components/redux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux2/red_ux2/src/components/redux/reducers/counter-one-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux2/red_ux2/src/components/redux/reducers/counter-two-reeducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../red_ux2/red_ux2/src/components/redux/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../red_ux/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../red_ux/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../red_ux/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../red_ux/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red_ux1/src/components/redux/action-creators/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/red_ux1/src/components/redux/action-creators/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red_ux1/src/components/redux/action-types/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/red_ux1/src/components/redux/action-types/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red_ux1/src/components/redux/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/red_ux1/src/components/redux/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red_ux1/src/components/redux/redusers/counter-one-reduser.js" beforeDir="false" afterPath="$PROJECT_DIR$/red_ux1/src/components/redux/redusers/counter-one-reduser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red_ux1/src/components/redux/redusers/counter-two-reduser.js" beforeDir="false" afterPath="$PROJECT_DIR$/red_ux1/src/components/redux/redusers/counter-two-reduser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red_ux1/src/components/redux/redusers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/red_ux1/src/components/redux/redusers/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rAkPAvplVFOdeQrFEcp2TJzD3r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61f460a8-0541-48fe-97b1-2e2d6d097f74" name="Default Changelist" comment="" />
+      <created>1618426256050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618426256050</updated>
+      <workItem from="1618426259339" duration="8968000" />
+      <workItem from="1618484761694" duration="1919000" />
+      <workItem from="1618486703922" duration="4923000" />
+      <workItem from="1618491676464" duration="4028000" />
+      <workItem from="1618514561352" duration="724000" />
+      <workItem from="1618515296808" duration="12676000" />
+      <workItem from="1618554536588" duration="3109000" />
+      <workItem from="1618561915926" duration="3739000" />
+      <workItem from="1618590719633" duration="3332000" />
+      <workItem from="1618740465970" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
